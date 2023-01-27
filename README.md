@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/112265560/215043412-641cc7be-a3e4-4489
 
 ### ・完成後アプリのキャプチャ動画
 
-https://user-images.githubusercontent.com/112265560/215048032-33dd17b7-bcdf-4c6d-bba3-9be50554cc00.mp4
+https://user-images.githubusercontent.com/112265560/215053433-cc18e806-25fb-464e-aab3-1fd4a1365332.mp4
 
 ### ・手順
 1. 好きな食べ物の画像をダウンロードして`food_image`という名前で`res`の中の`drawable`にコピーしよう。
