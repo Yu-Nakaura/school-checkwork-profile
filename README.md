@@ -9,7 +9,7 @@
 
 
 ### ・手順
-0. Data Bindingの設定をしよう
+0. Data Bindingの設定をして、自分の好きな画像を`res`の中の`drawable`にコピーしよう。
 
 ##### エレメントの配置
 1. `ImageView`を配置して、`profile_image`と設定しよう。自分の好きな写真を設定してね。
