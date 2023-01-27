@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/112265560/215027415-0cabd5fc-9103-41dd
 
 		(Hint) showProfileButton, showSprtButton, showFoodButton, showHobbyButtonを押したときの処理を変えてみよう。
 		
-### ・サンプルコードと解説
-
+### ・サンプルコード
+[Lv.1 のコード](https://github.com/Yu-Nakaura/school-checkwork-profile1)
