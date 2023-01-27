@@ -1,4 +1,4 @@
-# school-checkwork-profile
+# sプロフィールアプリのチェックワーク
 
 ## Lv.1 好きな写真を表示させよう
 自分のプロフィールを作成しよう。。
@@ -74,6 +74,12 @@ https://user-images.githubusercontent.com/112265560/215053433-cc18e806-25fb-464e
 ### ・サンプルコード
 [Lv.3 のコード](https://github.com/Yu-Nakaura/school-checkwork-profile3)
 
+## Lv.4 ボタンの色を変えよう
+ボタンの色を変えて押されているボタンをわかりやすくしよう。
+
+### ・完成後アプリのキャプチャ動画
+
+https://user-images.githubusercontent.com/112265560/215054107-938c341a-0706-44b3-9b8a-94ab4b7df241.mp4
 
 
 
